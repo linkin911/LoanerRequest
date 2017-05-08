@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_style</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-07 18:41:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f9b5d516a1e232007f443499ab26f5d5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_loaner_req_loaner_request</sys_name>

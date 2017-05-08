@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-05-07 18:35:25</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>23841116a1e232007f443499ab26f5c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Location to be used</sys_name>
