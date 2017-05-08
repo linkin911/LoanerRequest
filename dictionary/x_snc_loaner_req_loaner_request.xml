@@ -14,7 +14,7 @@
             </choice>
         </element>
         <element label="End date" mandatory="true" max_length="40" name="end_date" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="cmdb_ci_mobile_device" label="Item type" max_length="40" name="item_type" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cmdb_ci_mobile_Device" label="Item type" max_length="40" name="item_type" type="string">
             <choice>
                 <element label="Laptop" sequence="0" value="cmdb_ci_computer"/>
                 <element label="Mobile Phone" sequence="1" value="cmdb_ci_mobile_Device"/>
